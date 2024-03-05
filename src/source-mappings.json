@@ -1,0 +1,18 @@
+{
+  "defaults": {
+    "defaultRef": "main",
+    "include": [],
+    "exclude": [
+      "externals/external-repo/**/*.exe",
+      "excluded/*",
+      "**/*.dll",
+      "**/*.Dll"
+    ]
+  },
+  "mappings": [
+    {
+      "name": "product-repo1",
+      "defaultRemote": "C:\\Users\\prvysoky\\AppData\\Local\\Temp\\_vmrTests\\m5v13xjz.dl1\\_tests\\vplhibs5.2yr\\product-repo1"
+    }
+  ]
+}
