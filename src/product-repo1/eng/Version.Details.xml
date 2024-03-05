@@ -23,9 +23,9 @@
     <!-- Dependencies from https://github.com/dotnet/repo2 -->
     <!-- Dependencies from https://github.com/dotnet/repo2 -->
 
-    <Dependency Name="Package.C2" Version="1.0.0">
+    <Dependency Name="Package.C2" Version="2.0.0">
       <Uri>https://github.com/dotnet/repo2</Uri>
-      <Sha>c03</Sha>
+      <Sha>c04</Sha>
     </Dependency>
 
     <!-- End of dependencies from https://github.com/dotnet/repo2 -->

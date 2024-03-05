@@ -27,7 +27,7 @@
 
   <PropertyGroup>
     <!-- Dependencies from https://github.com/dotnet/repo2-->
-    <PackageC2PackageVersion>1.0.0</PackageC2PackageVersion>
+    <PackageC2PackageVersion>2.0.0</PackageC2PackageVersion>
   </PropertyGroup>
 
   <!-- End of dependencies from https://github.com/dotnet/repo2 -->
