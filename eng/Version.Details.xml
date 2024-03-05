@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
-    <ProductDependencies>
-        
-    </ProductDependencies>
-    <ToolsetDependencies>
-    </ToolsetDependencies>
+  <ProductDependencies>
+    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="1.0.0">
+      <Uri>C:\Users\prvysoky\AppData\Local\Temp\_vmrTests\m5v13xjz.dl1\_tests\vplhibs5.2yr\vmr</Uri>
+      <Sha>55d66ab6b95aa127fa4b9057ffb8e8581c523d62</Sha>
+    </Dependency>
+  </ProductDependencies>
+  <ToolsetDependencies>
+  </ToolsetDependencies>
 </Dependencies>
