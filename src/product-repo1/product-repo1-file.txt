@@ -1,5 +1,1 @@
-File in the test repo
-patches will change the next lines
-AAA
-BBB
-end of changes
+Test changes in repo file
