@@ -1,46 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <ProductDependencies>
-
     <!-- Dependencies from https://github.com/dotnet/repo1 -->
     <!-- Dependencies from https://github.com/dotnet/repo1 -->
     <!-- Dependencies from https://github.com/dotnet/repo1 -->
-
-    <Dependency Name="Package.A1" Version="1.0.0">
+    <Dependency Name="Package.A1" Version="1.0.1">
       <Uri>https://github.com/dotnet/repo1</Uri>
-      <Sha>a01</Sha>
+      <Sha>abc</Sha>
     </Dependency>
-    <Dependency Name="Package.B1" Version="1.0.0">
+    <Dependency Name="Package.B1" Version="1.0.1">
       <Uri>https://github.com/dotnet/repo1</Uri>
-      <Sha>b02</Sha>
+      <Sha>abc</Sha>
     </Dependency>
-
     <!-- End of dependencies from https://github.com/dotnet/repo1 -->
     <!-- End of dependencies from https://github.com/dotnet/repo1 -->
     <!-- End of dependencies from https://github.com/dotnet/repo1 -->
-
     <!-- Dependencies from https://github.com/dotnet/repo2 -->
     <!-- Dependencies from https://github.com/dotnet/repo2 -->
     <!-- Dependencies from https://github.com/dotnet/repo2 -->
-
     <Dependency Name="Package.C2" Version="1.0.0">
       <Uri>https://github.com/dotnet/repo2</Uri>
       <Sha>c03</Sha>
     </Dependency>
-
     <!-- End of dependencies from https://github.com/dotnet/repo2 -->
     <!-- End of dependencies from https://github.com/dotnet/repo2 -->
     <!-- End of dependencies from https://github.com/dotnet/repo2 -->
-
     <!-- Dependencies from https://github.com/dotnet/repo3 -->
     <!-- Dependencies from https://github.com/dotnet/repo3 -->
     <!-- Dependencies from https://github.com/dotnet/repo3 -->
-
-    <Dependency Name="Package.D3" Version="1.0.0">
+    <Dependency Name="Package.D3" Version="1.0.3">
       <Uri>https://github.com/dotnet/repo3</Uri>
-      <Sha>d04</Sha>
+      <Sha>def</Sha>
     </Dependency>
-
     <!-- End of dependencies from https://github.com/dotnet/repo3 -->
     <!-- End of dependencies from https://github.com/dotnet/repo3 -->
     <!-- End of dependencies from https://github.com/dotnet/repo3 -->

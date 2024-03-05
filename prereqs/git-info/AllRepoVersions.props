@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <productrepo1GitCommitHash>0a7bb23e46c95fd9017eaaa418c8b61efeb77c23</productrepo1GitCommitHash>
+    <productrepo1GitCommitHash>9c01301dce431e2ee07e16f7acec9da062e42042</productrepo1GitCommitHash>
+    <productrepo1OutputPackageVersion>1.2.3</productrepo1OutputPackageVersion>
   </PropertyGroup>
 </Project>

@@ -6,45 +6,35 @@
   <PropertyGroup>
     <VersionPrefix>9.0.100</VersionPrefix>
   </PropertyGroup>
-
   <!-- Dependencies from https://github.com/dotnet/repo1 -->
   <!-- Dependencies from https://github.com/dotnet/repo1 -->
   <!-- Dependencies from https://github.com/dotnet/repo1 -->
-
   <PropertyGroup>
     <!-- Dependencies from https://github.com/dotnet/repo1-->
-    <PackageA1PackageVersion>1.0.0</PackageA1PackageVersion>
-    <PackageB1PackageVersion>1.0.0</PackageB1PackageVersion>
+    <PackageA1PackageVersion>1.0.1</PackageA1PackageVersion>
+    <PackageB1PackageVersion>1.0.1</PackageB1PackageVersion>
   </PropertyGroup>
-
   <!-- End of dependencies from https://github.com/dotnet/repo1 -->
   <!-- End of dependencies from https://github.com/dotnet/repo1 -->
   <!-- End of dependencies from https://github.com/dotnet/repo1 -->
-
   <!-- Dependencies from https://github.com/dotnet/repo2 -->
   <!-- Dependencies from https://github.com/dotnet/repo2 -->
   <!-- Dependencies from https://github.com/dotnet/repo2 -->
-
   <PropertyGroup>
     <!-- Dependencies from https://github.com/dotnet/repo2-->
     <PackageC2PackageVersion>1.0.0</PackageC2PackageVersion>
   </PropertyGroup>
-
   <!-- End of dependencies from https://github.com/dotnet/repo2 -->
   <!-- End of dependencies from https://github.com/dotnet/repo2 -->
   <!-- End of dependencies from https://github.com/dotnet/repo2 -->
-
   <!-- Dependencies from https://github.com/dotnet/repo3 -->
   <!-- Dependencies from https://github.com/dotnet/repo3 -->
   <!-- Dependencies from https://github.com/dotnet/repo3 -->
-
   <PropertyGroup>
     <!-- Dependencies from https://github.com/dotnet/repo3 -->
-    <PackageD3PackageVersion>1.0.0</PackageD3PackageVersion>
+    <PackageD3PackageVersion>1.0.3</PackageD3PackageVersion>
   </PropertyGroup>
-
   <!-- End of dependencies from https://github.com/dotnet/repo3 -->
   <!-- End of dependencies from https://github.com/dotnet/repo3 -->
   <!-- End of dependencies from https://github.com/dotnet/repo3 -->
-
 </Project>

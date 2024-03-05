@@ -1,10 +1,10 @@
 {
   "repositories": [
     {
-      "packageVersion": null,
+      "packageVersion": "1.2.3",
       "path": "product-repo1",
       "remoteUri": "C:\\Users\\prvysoky\\AppData\\Local\\Temp\\_vmrTests\\m5v13xjz.dl1\\_tests\\vplhibs5.2yr\\product-repo1",
-      "commitSha": "0a7bb23e46c95fd9017eaaa418c8b61efeb77c23"
+      "commitSha": "9c01301dce431e2ee07e16f7acec9da062e42042"
     }
   ],
   "submodules": []
